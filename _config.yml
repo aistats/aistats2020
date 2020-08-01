@@ -38,10 +38,10 @@ conference:
   proceedings:
     url: http://proceedings.mlr.press/v108/
     show: true
-  room: Room
-  venue: Teatro Politeama
+  room: 
+  venue: 
   venue_url: 
-  location: Palermo, Sicily, Italy
+  location: Online
   full_name: Artificial Intelligence and Statistics
   name: AISTATS
   year: 2020
