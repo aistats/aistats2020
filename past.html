@@ -4,15 +4,15 @@ title: Past Meetings
 navigation_weight: 10
 ---
 <!--| sort: 'name'-->
-{% assign sorted = (site.github.public_repositories)  %}
+{% assign sorted = site.github.public_repositories %}
   
 <h1>Past Meetings</h1>
 <ul>
-  {% for repository in sorted reversed %}{% if repository.has_pages %}{% unless repository.name contains 'github.io' %}{% if repository.name contains 'aistats' %}
+  {% for repository in sorted reversed %}{% if repository.has_pages %}{% unless repository.name contains 'github.io' %}{% if repository.name contains 'aistats' %}{% unless repository.name contains 'aistats2021' %}
   <li>
     <a href="{{ repository.name | prepend: site.baseurl }}"><b>AISTATS {{ repository.name | remove_first: "aistats" }}</b></a> {{ repository.description }} 
   </li>
-    {% endif %}{% endunless %}{% endif %}{% endfor %}    
+    {% endunless %}{% endif %}{% endunless %}{% endif %}{% endfor %}    
   <li><a href="http://www.ics.uci.edu/~aistats/">AISTATS 2009</a> </li>
   <li><a href="http://www.stat.umn.edu/%7Eaistat/">AISTATS 2007</a></li>
   <li><a href="http://www.gatsby.ucl.ac.uk/aistats/index.html">AISTATS 2005</a></li>
