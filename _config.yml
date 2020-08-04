@@ -129,3 +129,10 @@ conference:
       given: Konstantina 
       url: https://www.microsoft.com/en-us/research/people/kopalla/
       institute: Microsoft Research Cambridge
+  - type: Online Conference Chair
+    people:
+    - family: Will
+      given: Dabney 
+      url: https://willdabney.com/
+      institute: DeepMind
+      
