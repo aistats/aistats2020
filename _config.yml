@@ -92,7 +92,7 @@ conference:
     - family: Martinez Olmos
       given: Pablo
       url: http://www.tsc.uc3m.es/~olmos/
-      institute: University of Madrid
+      institute: University Carlos III of Madrid
   - type: Workflow Chairs
     people:
     - family: Trovò
@@ -131,8 +131,8 @@ conference:
       institute: Microsoft Research Cambridge
   - type: Online Conference Chair
     people:
-    - family: Will
-      given: Dabney 
+    - family: Dabney
+      given: Will
       url: https://willdabney.com/
       institute: DeepMind
       
