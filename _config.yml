@@ -89,6 +89,10 @@ conference:
       given: Liliana
       url: http://www.diid.unipa.it/cvip/people/lopresti/
       institute: University of Palermo
+    - family: Martinez Olmos
+      given: Pablo
+      url: http://www.tsc.uc3m.es/~olmos/
+      institute: University of Madrid
   - type: Workflow Chairs
     people:
     - family: Trovò
