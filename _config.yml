@@ -89,6 +89,10 @@ conference:
       given: Liliana
       url: http://www.diid.unipa.it/cvip/people/lopresti/
       institute: University of Palermo
+    - family: Martinez Olmos
+      given: Pablo
+      url: http://www.tsc.uc3m.es/~olmos/
+      institute: University Carlos III of Madrid
   - type: Workflow Chairs
     people:
     - family: Trovò
@@ -125,3 +129,10 @@ conference:
       given: Konstantina 
       url: https://www.microsoft.com/en-us/research/people/kopalla/
       institute: Microsoft Research Cambridge
+  - type: Online Conference Chair
+    people:
+    - family: Dabney
+      given: Will
+      url: https://willdabney.com/
+      institute: DeepMind
+      
