@@ -97,7 +97,7 @@ conference:
     people:
     - family: Trovò
       given: Francesco
-      url: https://home.deib.polimi.it/trovo/index.html
+      url: https://trovo.faculty.polimi.it/
       institute: Politecnico di Milano 
   - type: Publication Chair
     people:
@@ -121,7 +121,7 @@ conference:
     people:
     - family: Belgrave
       given: Danielle 
-      url: https://www.imperial.ac.uk/people/d.belgrave
+      url: https://www.microsoft.com/en-us/research/people/dabelgra/
       institute: Microsoft Research Cambridge
   - type: Sponsorship Chair
     people:
@@ -135,4 +135,11 @@ conference:
       given: Will
       url: https://willdabney.com/
       institute: DeepMind
+  - type: Developer
+    people:
+    - family: Strobelt
+      given: Hendrik
+      url: http://hendrik.strobelt.com
+      institute: MIT-IBM Watson AI Lab
+      
       
