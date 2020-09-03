@@ -34,14 +34,14 @@ image:
   file: Palermo.jpg
   width: 400
 
-banner:
-  image: TaorminaTheatre.jpg
+banner: TaorminaTheatre.jpg
 
 credit_card_image: credit.png
 
 conference:
   draft: true # set to True if the programme is draft only.
   logo: logo.jpg
+  image: Palermo.jpg
   hide_tentative: true
   proceedings:
     url: http://proceedings.mlr.press/v108/
