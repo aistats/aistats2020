@@ -1,0 +1,115 @@
+draft: true # set to True if the programme is draft only.
+logo: logo.jpg
+image: Palermo.jpg
+hide_tentative: true
+proceedings:
+  url: http://proceedings.mlr.press/v108/
+  show: true
+room: 
+venue: 
+venue_url: 
+location: Online
+full_name: Artificial Intelligence and Statistics
+short_name: AISTATS
+name: Artificial Intelligence and Statistics
+year: 2020
+instance: 23rd
+styling: International Conference on
+dates:
+- 2020-08-26
+- 2020-08-27
+- 2020-08-28
+submission:
+  show: false
+  url: http://cmt3.research.microsoft.com/AISTATS2020/ 
+  name: Microsoft CMT website
+deadlines:
+  - name: Submission server open
+    type: submission
+    text: Tuesday, 17 September 2019
+  - name: Paper submission deadline
+    type: submission
+    text: Tuesday, 8 October 2019 23:59 PDT
+  - name: Author response period starts
+    date: 2019-11-24
+  - name: Author response period ends
+    text: Saturday, 30 November 2019 20:59 UTC    
+  - name: Paper decision notifications
+    date: 2020-01-06
+    type: decision
+  - name: Deadline for camera-ready papers
+    text: Saturday, 29 February 2020 15:59 UTC  
+  - name: Registration deadline
+    date: 2020-08-10
+
+chairs:
+- type: Program Chairs
+  people:
+  - family: Chiappa
+    given: Silvia
+    url: https://csilviavr.github.io/
+    institute: DeepMind
+  - family: Calandra
+    given: Roberto
+    url: https://www.robertocalandra.com/about/
+    institute: Facebook AI Research
+- type: Local Chair
+  people:
+  - family: Lo Presti
+    given: Liliana
+    url: http://www.diid.unipa.it/cvip/people/lopresti/
+    institute: University of Palermo
+  - family: Martinez Olmos
+    given: Pablo
+    url: http://www.tsc.uc3m.es/~olmos/
+    institute: University Carlos III of Madrid
+- type: Workflow Chairs
+  people:
+  - family: Trovò
+    given: Francesco
+    url: https://trovo.faculty.polimi.it/
+    institute: Politecnico di Milano 
+- type: Publication Chair
+  people:
+  - family: Restelli      
+    given: Marcello
+    url: http://home.deib.polimi.it/restelli/MyWebSite/index.shtml
+    institute: Politecnico di Milano
+- type: Publicity Chair
+  people:
+  - family: Ricci
+    given: Elisa
+    url: http://elisaricci.eu/
+    institute: University of Trento & FBK
+- type: Family Chair
+  people:
+  - family: Huszár
+    given: Ferenc
+    url: https://www.inference.vc/about/
+    institute: Twitter
+- type: D&I Chair
+  people:
+  - family: Belgrave
+    given: Danielle 
+    url: https://www.microsoft.com/en-us/research/people/dabelgra/
+    institute: Microsoft Research Cambridge
+- type: Sponsorship Chair
+  people:
+  - family: Palla
+    given: Konstantina 
+    url: https://www.microsoft.com/en-us/research/people/kopalla/
+    institute: Microsoft Research Cambridge
+- type: Online Conference Chair
+  people:
+  - family: Dabney
+    given: Will
+    url: https://willdabney.com/
+    institute: DeepMind
+- type: Developer
+  people:
+  - family: Strobelt
+    given: Hendrik
+    url: http://hendrik.strobelt.com
+    institute: MIT-IBM Watson AI Lab
+    
+    
